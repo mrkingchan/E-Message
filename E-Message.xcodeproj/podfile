@@ -1,0 +1,5 @@
+platform :ios,'7.0'
+target 'E-Message' do
+pod 'Hyphenate'
+end
+
